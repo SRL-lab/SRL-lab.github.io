@@ -9,8 +9,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>607, Nano-CRF Sathi Building</p>
-    <p>Indian Institute of Technology Kharagpur</p>
-    <p>West Bengal, Indian 721302</p>
+    <p>IIT Kharagpur</p>
+    <p>West Bengal, India 721302</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
