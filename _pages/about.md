@@ -26,8 +26,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor at the Centre for Interdisciplinary and Convergent Technologies, Indian Institute of Technology Kharagpur. 
+​
+I am interested in the emergence of quantum optical and photophysical functionality from structural organisation in hybrid nanoscale systems, observed in real time using ultrafast optical spectroscopy. You can find more on Research Page
+​​
+At ATDC, I build optical spectroscopy capabilities and pursue collaborative research in quantum photonics & nano materials towards novel optoelectronic and photonic devices. Before joining IIT-KGP, I worked as a Postdoctoral Researcher at the Chemical Physics Division, Lund University, Sweden with Tönu Pullerits.
+​
+I completed my Ph.D. from Nanyang Technological University (NTU), Singapore, where I worked with Tze Chien Sum. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
