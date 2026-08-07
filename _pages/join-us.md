@@ -7,4 +7,13 @@ nav: true
 nav_order: 4
 ---
 
-We are always looking for motivated students and researchers to join our lab. Details on open positions, application process, and requirements go here.
+<span style="font-size: 22px; color: darkred;">We are recruiting!</span>
+​​​
+Prospective Ph.D. Students:
+I am interested in working with students with a background in Physics / Material Science / EE and have good knowledge / experience with programming (Python / Matlab / LabVIEW), and are passionate about experimental spectroscopy and photonics. 
+​
+IIT-KGP UG and PG Students:
+Watch this space for announcements regarding positions in the future.
+​
+Prospective Interns from External Institutes:
+Watch this space for announcements regarding internship opportunities in the future.
