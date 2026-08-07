@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>607, Nano-CRF Sathi Building</p>
+    <p>607, Nano-CRF SATHI Building</p>
     <p>IIT Kharagpur</p>
     <p>West Bengal, India 721302</p>
 
