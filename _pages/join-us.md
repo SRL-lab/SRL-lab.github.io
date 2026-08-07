@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-<span style="font-size: 42px; color: darkblue;">We are recruiting!</span>
+<span style="font-size: 42px; color: purple;">We are recruiting!</span>
 ​​
 ​
 
