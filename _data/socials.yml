@@ -6,6 +6,7 @@ email: sankar@atdc.iitkgp.ac.in # your email address
 # inspirehep_id: # Inspire HEP author ID
 # rss_icon: false # comment this line to hide the RSS icon
 scholar_userid: 4Bk6g1YAAAAJ # your Google Scholar ID
+orcid_id: 0000-0002-1557-3798
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 #custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
