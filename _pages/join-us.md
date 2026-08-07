@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /join-us/
-title: join us
-description: Information for prospective students, postdocs, and collaborators.
+title: Join Us!
+description:
 nav: true
 nav_order: 4
 ---
@@ -12,7 +12,7 @@ nav_order: 4
 ​
 
 **Prospective Ph.D. Students:** <br>
-I am interested in working with students with a background in Physics / Material Science / EE and have good knowledge / experience with programming (Python / Matlab / LabVIEW), and are passionate about experimental spectroscopy and photonics. 
+I am interested in working with students with a background in Physics / Material Science / EE and have good knowledge / experience with programming (Python / Matlab / LabVIEW), and are passionate about experimental spectroscopy and photonics. You may apply via the institute <a href='https://www.iitkgp.ac.in/rolling-phd-admission'>Link</a>.
 ​
 
 **IIT-KGP UG and PG Students:** <br>
