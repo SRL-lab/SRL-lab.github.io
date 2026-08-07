@@ -1,0 +1,39 @@
+# List of team members. To add a new member, copy a block below and edit it.
+# image: filename inside assets/img/
+# link: optional — where clicking the photo goes (e.g. a Google Drive bio, personal site)
+
+principal_investigator:
+  name: Sankaran Ramesh
+  title: Assistant Professor
+  affiliation: ATDC, IIT Kharagpur
+  image: prof_pic.jpg
+  link: https://drive.google.com/
+
+members:
+  # - name: Jane Doe
+  #   title: PhD Student
+  #   affiliation: SRL, IIT Kharagpur
+  #   image: jane_doe.jpg
+  #   link:
+
+collaborators:
+  - name: Tönu Pullerits
+    title: Professor, Division of Chemical Physics
+    affiliation: Lund University, Sweden
+    link: https://www.chemphys.lu.se/tonu-pullerits
+  - name: Dmitry Baranov
+    title: Assistant Professor, Division of Chemical Physics
+    affiliation: Lund University, Sweden
+    link: https://www.chemphys.lu.se/dmitry-baranov
+  - name: Tomas Edvinsson
+    title: Professor, Solid State Physics Division
+    affiliation: Uppsala University, Sweden
+    link: https://www.uu.se/en/department/materials-science-and-engineering/research/divisions/solid-state-physics/tomas-edvinsson-group
+  - name: Ki Tae Nam
+    title: Professor, Department of Materials Science and Engineering
+    affiliation: Seoul National University, South Korea
+    link: https://www.nkitae.org/
+  - name: Tze Chien Sum
+    title: Professor, School of Physical and Mathematical Sciences
+    affiliation: Nanyang Technological University, Singapore
+    link: https://dr.ntu.edu.sg/entities/person/Sum-Tze-Chien
