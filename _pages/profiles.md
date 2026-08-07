@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /people/
-title: people
-description: members of the lab
+title: People
+description: members of SRLab
 nav: true
 nav_order: 7
 ---
@@ -47,6 +47,7 @@ nav_order: 7
   {% endfor %}
 </div>
 {% endif %}
+
 
 <h2>Collaborators</h2>
 <ul>
