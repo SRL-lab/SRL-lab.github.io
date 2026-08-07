@@ -5,9 +5,9 @@
 principal_investigator:
   name: Sankaran Ramesh
   title: Assistant Professor
-  affiliation: ATDC, IIT Kharagpur
+  affiliation: CIDCT, IIT Kharagpur
   image: prof_pic.jpg
-  link: https://drive.google.com/
+  link:
 
 members:
   # - name: Jane Doe
