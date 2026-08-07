@@ -2,12 +2,12 @@
 layout: page
 permalink: /resources/
 title: Resources
-description: Useful tools and reads for the lab.
+description:
 nav: true
 nav_order: 5
 ---
 
-## Some Useful Tools
+### Some Useful Tools
 
 **[Unit Conversions](https://halas.rice.edu/unit-conversions)**
 <br>
