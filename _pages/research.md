@@ -9,7 +9,7 @@ nav_order: 3
 
 <div class="research">
 
-#<p class="lead">A one- or two-line summary of your lab's overall research mission goes here.</p>
+<p class="lead">A one- or two-line summary of your lab's overall research mission goes here.</p>
 
 {% for topic in site.data.research %}
 <hr>
