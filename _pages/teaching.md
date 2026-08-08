@@ -47,31 +47,3 @@ nav_order: 4
 
 <div style="margin-top: 2rem;"></div>  <!-- Spacer -->
 
-#### Past Courses
-#{% assign past_courses = site.teaching | where: "status", "past" %}
-#<ul>
-#  {% for course in past_courses %}
-#    <li><a class="course-link" href="{{ course.url }}">{{ course.title }}</a>{% if #course.semester %}<span class="course-sem">{{ course.semester }}</span>{% endif %}</li>
-#  {% endfor %}
-#</ul>
-
-<div style="margin-top: 2.5rem;"></div>
-
-#### Self-Study Resources
-
-#<div class="selfml-card">
-#  <div class="selfml-head">
-#    <span class="selfml-title">Self-Learning Machine Learning</span>
-#    <a class="selfml-btn" href="/assets/pdf/Self_ML.pdf" target="_blank" rel="noopener">Open / #download PDF</a>
-#  </div>
-#  <p class="selfml-desc">A one-page, curated roadmap for learning machine learning from #scratch. It lists the best free resources in the order I'd suggest working through them — the #probability, linear-algebra, and programming prerequisites first, then core machine-learning #and deep-learning courses, and finally how to move into projects and research. Put together by #the lab for students starting out; please feel free to share it, with acknowledgement.</p>
-#</div>
-
-#<div class="selfml-card">
-#  <div class="selfml-head">
-#    <span class="selfml-title">Optimization Modeling for Engineers</span>
-#    <a class="selfml-btn" href="https://laurentlessard.com/teaching/5374-optimization-#modeling/" target="_blank" rel="noopener">Open course</a>
-#  </div>
-#  <p class="selfml-desc">An openly available course (ME 5374) by <a href="https://#laurentlessard.com/" target="_blank" rel="noopener">Prof. Laurent Lessard</a>, Northeastern #University. It teaches how to turn real engineering problems into optimization models — linear, #quadratic, convex, and mixed-integer / non-convex programs — solve them with modern tools, and #interpret the results through sensitivity and trade-off analysis. Lecture slides, Julia 
-#notebooks, and project examples are all public. This is an external resource shared here for #self-study; full credit to the author.</p>
-#</div>
