@@ -40,6 +40,7 @@ nav_order: 7
 </div>
 {% endif %}
 
+
 <h2>Collaborators</h2>
 <ul>
   {% for collaborator in site.data.team.collaborators %}
