@@ -4,7 +4,7 @@
 # links: list of {label, url} shown under "Related Materials"
 
 - title: "Chirality Transfer"
-  image: SRl_logo-2.png
+  image: SRL_logo-2.png
   text: >
     Describe your first research theme here. This paragraph can be as long as
     you like — it will sit side-by-side with the image on wider screens and
@@ -16,7 +16,7 @@
       url: https://arxiv.org/
 
 - title: "Quantum Coherences"
-  image: SRl_logo-2.png
+  image: SRL_logo-2.png
   text: >
     Describe your second research theme here.
   links:
@@ -24,7 +24,7 @@
       url: https://arxiv.org/
 
 - title: "Quantum Light Spectroscopy"
-  image: SRl_logo-2.png
+  image: SRL_logo-2.png
   text: >
     Describe your third research theme here. This one has no image — the
     layout will automatically use the full width for the text.
