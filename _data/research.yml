@@ -4,7 +4,7 @@
 # links: list of {label, url} shown under "Related Materials"
 
 - title: "Chirality Transfer and Chiral Light-Matter Coupling"
-  image: helicoid.jpg
+  image: helicoid.png
   text: >
     One of our current thrusts is to understand how molecular handedness imprints itself on a material's electronic response. Comparing (R-MBA)₂PbI₄ with its racemic analogue, we found a ~5.7 meV coherent phonon that couples to excitons only in the chiral material, with a rotational displacement pattern linking spacer to Pb–I framework and providing chiral character to the exciton. In chiral gold helicoids coated with J-aggregates, we track how structural handedness and plasmon–exciton coupling steer ultrafast energy flow.
   links:
