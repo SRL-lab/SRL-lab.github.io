@@ -1,0 +1,31 @@
+# Research topics for the /research/ page.
+# To add a new topic, copy a block and edit it.
+# image: filename inside assets/img/ (optional — leave blank to skip the graphic)
+# links: list of {label, url} shown under "Related Materials"
+
+- title: "Chirality Transfer"
+  image: SRl_logo-2.png
+  text: >
+    Describe your first research theme here. This paragraph can be as long as
+    you like — it will sit side-by-side with the image on wider screens and
+    stack below it on mobile.
+  links:
+    - label: "Example Paper (2025)"
+      url: https://arxiv.org/
+    - label: "Another Reference"
+      url: https://arxiv.org/
+
+- title: "Quantum Coherences"
+  image: SRl_logo-2.png
+  text: >
+    Describe your second research theme here.
+  links:
+    - label: "Example Paper"
+      url: https://arxiv.org/
+
+- title: "Quantum Light Spectroscopy"
+  image: SRl_logo-2.png
+  text: >
+    Describe your third research theme here. This one has no image — the
+    layout will automatically use the full width for the text.
+  links: []
