@@ -23,7 +23,7 @@ Desmos Graphing Calculator is useful when you want a quick plot of a function or
 <br>
 If you are developing optical setups, here is a complete toolbox from Light Conversion to figure out non-linear optics, dispersion, etc.
 
-
+<br>
 ---
 
 
