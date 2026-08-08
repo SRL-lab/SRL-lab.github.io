@@ -1,0 +1,65 @@
+---
+title: "AT 69145: Seminar"
+permalink: /teaching/course_AT69145/
+layout: page
+status: current
+description: "Seminar Course for Graduate Students"
+semester: "Autumn 2026"
+---
+
+<h4 class="course-section">Course Overview</h4>
+
+This page contains notes, lectures and resources for **AT 69145 Seminar** (Autumn 2026). This is **not the complete course website**, only the modules covered by Dr. Sankaran Ramesh.
+
+**Instructor**: Dr. Parikshit Pareek  
+**Semester**: Autumn 2026
+**Department**: CIDCT, IIT Kharagpur 
+**Location**: NC112, Nalanda Complex 
+
+---
+
+<h4 class="course-section">Evaluation Policy (Full Course)</h4>
+
+- **Continuous Assessment (CWS):** 40%  
+- **Mid-Term Exam (MTE):** 30%  
+- **End-Term Exam (ETE):** 30%  
+
+---
+
+<h4 class="course-section">Class Schedule</h4>
+
+Thursdays 2 PM - 5 PM
+
+---
+
+<h4 class="course-section">Resources</h4>
+
+- **Lecture Slides**: <a href="https://drive.google.com/file/d/1aJKIiSr0I18th2_1ordRAHIoTheagXn5/view?usp=share_link" target="_blank">Slides That Work, Lecture on 6 Aug 2026</a>. 
+- **Research Papers**: <a href="https://www.nature.com/articles/s41568-026-00954-8" target="_blank">How to give a bad talk</a>. 
+
+---
+
+<h4 class="course-section">Contact Information (This Part)</h4>
+
+**Instructor**: Dr. Sankaran Ramesh
+- Office: Room 607, Nano-CRF Building  
+- Email: [sankar@atdc.iitkgp.ac.in](mailto:sankar@atdc.iitkgp.ac.in)  
+- Office Hours: Friday 15:00–16:00 hrs
+
+---
+
+<h4 class="course-section">Announcements</h4>
+
+All announcements will be made in the classroom and/or shared via Google Classroom.
+
+---
+
+<h4 class="course-section">Policies</h4>
+
+- Academic integrity is strictly enforced. Plagiarism/cheating will lead to disciplinary action as per IIT Kharagpur guidelines.  
+- Active participation is expected in lectures and group discussions.
+
+---
+
+
+
