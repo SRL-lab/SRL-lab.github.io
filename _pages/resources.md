@@ -22,12 +22,16 @@ Desmos Graphing Calculator is useful when you want a quick plot of a function or
 **[Optics Toolbox](https://toolbox.lightcon.com/)**
 <br>
 If you are developing optical setups, here is a complete toolbox from Light Conversion to figure out non-linear optics, dispersion, etc.
-
 <br>
+
 ---
 
 
 ### Reads that may interest you...
+
+#### [From Intuition to Creation: How AI Changes the Architecture of Intellectual Work](https://pubs.acs.org/jpclcd/article/17/30/8506/5237234/From-Intuition-to-Creation-How-AI-Changes-the)
+
+A thought-provoking opinion piece by Prof Juan Bisquert about what role LLMs will take in the life of researchers. To quote the author: "When the distance between intuition and creation becomes very small, will we become intellectually passive—or will we be free to spend more of our lives having ideas?"
 
 
 #### [Louis Brus's Advice to Scientists](https://www.nature.com/articles/s41565-023-01564-3#question-33)
