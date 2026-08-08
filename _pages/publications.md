@@ -22,7 +22,7 @@ nav_order: 2
 {% bibliography --query @*[preprint=true] %}
 
 
----
+<br>
 
 <h2>Journal Publications</h2>
 {% bibliography --query @*[preprint!=true] %}
