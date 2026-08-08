@@ -24,7 +24,7 @@ Watch this space for announcements regarding internship opportunities in the fut
 
 <hr>
 
-**Contact Details:**
+<h4 class="course-section">Contact Details</h4>
 Office: Room 607, 6th Floor, Nano-CRF SATHI Building, Centre for Interdisciplinary and Convergent Technologies, IIT Kharagpur, West Bengal, India - 721302
 <br>
 Email:sankar [at] atdc [dot] iitkgp [dot] ac [dot] in
