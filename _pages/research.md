@@ -9,7 +9,7 @@ nav_order: 3
 
 <div class="research">
 
-<p class="lead">A one- or two-line summary of your lab's overall research mission goes here.</p>
+<p class="lead">We use ultrafast laser spectroscopy to watch what happens in materials in the first trillionths of a second after light is absorbed: how energy moves, how charges and the lattice push on each other, and how quantum coherence survives at room temperature. We work on hybrid perovskites and plasmonic–molecular hybrids, and develop new measurement tools including spectroscopy that uses entangled photons instead of classical laser light.</p>
 
 {% for topic in site.data.research %}
 <hr>
