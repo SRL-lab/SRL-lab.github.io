@@ -21,3 +21,10 @@ Watch this space for announcements regarding positions in the future.
 ​
 **Prospective Interns from External Institutes:** <br>
 Watch this space for announcements regarding internship opportunities in the future.
+
+<hr>
+
+**Contact Details:**
+Office: Room 607, 6th Floor, Nano-CRF SATHI Building, Centre for Interdisciplinary and Convergent Technologies, IIT Kharagpur, West Bengal, India - 721302
+<br>
+Email:sankar [at] atdc [dot] iitkgp [dot] ac [dot] in
