@@ -9,12 +9,13 @@ principal_investigator:
   image: prof_pic.jpg
   link:
 
+
 members:
-  # - name: Jane Doe
-  #   title: PhD Student
-  #   affiliation: SRL, IIT Kharagpur
-  #   image: jane_doe.jpg
-  #   link:
+   - name: Coming Soon!
+     title: 
+     affiliation: 
+     image: SRL_logo-2.png
+     link:
 
 collaborators:
   - name: Tönu Pullerits
