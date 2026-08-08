@@ -3,29 +3,28 @@
 # image: filename inside assets/img/ (optional — leave blank to skip the graphic)
 # links: list of {label, url} shown under "Related Materials"
 
-- title: "Chirality Transfer"
-  image: SRL_logo-2.png
+- title: "Chirality Transfer and Chiral Light-Matter Coupling"
+  image: RMBA_phonon.png
   text: >
-    Describe your first research theme here. This paragraph can be as long as
-    you like — it will sit side-by-side with the image on wider screens and
-    stack below it on mobile.
+On of our current thrusts is to understand how molecular handedness imprints itself on a material's electronic response. Comparing (R-MBA)₂PbI₄ with its racemic analogue, we found a ~5.7 meV coherent phonon that couples to excitons only in the chiral material, with a rotational displacement pattern linking spacer to Pb–I framework and providing chiral character to the exciton. In chiral gold helicoids coated with J-aggregates, we track how structural handedness and plasmon–exciton coupling steer ultrafast energy flow.
   links:
-    - label: "Example Paper (2025)"
-      url: https://arxiv.org/
-    - label: "Another Reference"
-      url: https://arxiv.org/
+    - label: "Preprint (2026)"
+      url: https://arxiv.org/abs/2606.09097
+    - label: "Preprint (2025)"
+      url: https://arxiv.org/abs/2507.10036
 
-- title: "Quantum Coherences"
-  image: SRL_logo-2.png
+- title: "Coherent phonons and charge–lattice coupling"
+  image: adom_paper_toc.jpg
   text: >
-    Describe your second research theme here.
+    A femtosecond pulse kicks a soft ionic lattice into synchronized atomic motion that writes itself onto the optical response as an oscillation. Through Coherent Phonon Spectroscopy, we watch charges dress themselves in lattice distortion. In lead-free Cs₂Au₂Br₆ we found charge-transfer states strongly coupled to Au–Br stretching modes and an unusually slow formation of a localised state. We also found in similar tin-based systems that the formation of localised states and the strength of charge-lattice coupling depends on dimensionality, with stronger localization at lower dimensions.
   links:
-    - label: "Example Paper"
-      url: https://arxiv.org/
+    - label: "Paper 1"
+      url: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adom.202402882
+    - label: "Paper 2"
+      url: https://www.nature.com/articles/s41467-026-68544-8#citeas
 
 - title: "Quantum Light Spectroscopy"
-  image: SRL_logo-2.png
+  image: EPPS.png
   text: >
-    Describe your third research theme here. This one has no image — the
-    layout will automatically use the full width for the text.
-  links: []
+    Entangled photon pairs carry time–frequency correlations no classical pulse can reproduce. We explored the use of bright entangled beams in 2D electronic spectroscopy to detect electronic, vibrational and vibronic coherences in a single snapshot, each appearing at its own point in the spectrum — separating coherence from population dynamics without temporal scanning. Separately, we used Franson interferometry to place background-free quantitative bounds on entangled two-photon absorption in dye molecules.
+  links: [Coming Soon!]
