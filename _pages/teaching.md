@@ -5,7 +5,7 @@ layout: default
 page_title: Teaching
 description: Details about teaching activities
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 <style>

@@ -4,7 +4,7 @@ permalink: /join-us/
 title: Join Us!
 description:
 nav: true
-nav_order: 4
+nav_order: 7
 ---
 
 <span style="font-size: 42px; color: purple;">We are recruiting!</span>
