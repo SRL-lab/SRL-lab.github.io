@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /people/
-title: People
-description: members of SRLab
+title: people
+description: members of the lab
 nav: true
 nav_order: 7
 ---
@@ -10,44 +10,35 @@ nav_order: 7
 <div class="team">
 
 <h2>Principal Investigator</h2>
-<div class="row row-cols-1 row-cols-md-3">
-  {% assign pi = site.data.team.principal_investigator %}
-  <div class="col">
-    <a href="{{ pi.link }}">
-      <div class="card h-100 hoverable">
-        {% if pi.image %}
-          <img class="card-img-top" src="{{ '/assets/img/' | append: pi.image | relative_url }}" alt="{{ pi.name }}">
-        {% endif %}
-        <div class="card-body">
-          <h3 class="card-title">{{ pi.name }}</h3>
-          <p class="card-text">{{ pi.title }}<br>{{ pi.affiliation }}</p>
-        </div>
-      </div>
-    </a>
+{% assign pi = site.data.team.principal_investigator %}
+<div class="team-list">
+  <div class="team-row">
+    {% if pi.image %}
+    <img src="{{ '/assets/img/' | append: pi.image | relative_url }}" alt="{{ pi.name }}" class="team-photo">
+    {% endif %}
+    <div class="team-info">
+      <a href="{{ pi.link }}"><strong>{{ pi.name }}</strong></a><br>
+      {{ pi.title }}, {{ pi.affiliation }}
+    </div>
   </div>
 </div>
 
 {% if site.data.team.members and site.data.team.members.size > 0 %}
 <h2>Team Members</h2>
-<div class="row row-cols-1 row-cols-md-3">
+<div class="team-list">
   {% for member in site.data.team.members %}
-  <div class="col">
-    <a href="{{ member.link }}">
-      <div class="card h-100 hoverable">
-        {% if member.image %}
-          <img class="card-img-top" src="{{ '/assets/img/' | append: member.image | relative_url }}" alt="{{ member.name }}">
-        {% endif %}
-        <div class="card-body">
-          <h3 class="card-title">{{ member.name }}</h3>
-          <p class="card-text">{{ member.title }}<br>{{ member.affiliation }}</p>
-        </div>
-      </div>
-    </a>
+  <div class="team-row">
+    {% if member.image %}
+    <img src="{{ '/assets/img/' | append: member.image | relative_url }}" alt="{{ member.name }}" class="team-photo">
+    {% endif %}
+    <div class="team-info">
+      <a href="{{ member.link }}"><strong>{{ member.name }}</strong></a><br>
+      {{ member.title }}, {{ member.affiliation }}
+    </div>
   </div>
   {% endfor %}
 </div>
 {% endif %}
-
 
 <h2>Collaborators</h2>
 <ul>
@@ -59,3 +50,26 @@ nav_order: 7
 </ul>
 
 </div>
+
+<style>
+.team-list {
+  margin-bottom: 20px;
+}
+.team-row {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+.team-photo {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.team-info {
+  line-height: 1.4;
+}
+</style>
