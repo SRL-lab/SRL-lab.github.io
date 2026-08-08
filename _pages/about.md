@@ -25,7 +25,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am an Assistant Professor at the Centre for Interdisciplinary and Convergent Technologies (CIDCT), Indian Institute of Technology Kharagpur. 
+I am an Assistant Professor at the Centre for Interdisciplinary and Convergent Technologies (<a href='https://www.iitkgp.ac.in/department/AT'>CIDCT</a>), Indian Institute of Technology Kharagpur. 
 ​
 At SRLab, we investigate emergent quantum optical phenomena in hybrid materials. Our research asks the question: How does structural arrangement and coupling of parts in a material give rise to properties that the individual parts do not possess? For example, directed energy flow in a heterostructure, transfer of optical chirality at a hybrid interface, and charge localisation in deformable ionic structures. We use the techniques of ultrafast spectroscopy to observe these phenomena directly. You can find more in <a href='https://srl-web.github.io/research/'>Research</a>.
 ​​
